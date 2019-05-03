@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {StatusBar} from 'react-native'
+import {StatusBar, View} from 'react-native'
 
 import '~/config/ReactotronConfig';
 
